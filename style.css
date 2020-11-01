@@ -1,0 +1,24 @@
+body
+{
+    margin: 20px;
+    padding: 20px;
+    background-color: lightcyan;
+}
+
+label {
+    float: left;
+    width: 271px;
+    text-align: justify;
+    margin-top: 12px;
+    clear: left;
+
+}
+input, textarea {margin-top: 12px;}
+
+#calcTotalFee {
+    margin-top: 12px;
+    background-color: #ccc;
+}
+#feeOutput {
+    font-family: "Arial Black";
+}
